@@ -1,0 +1,49 @@
+body
+{
+    background:rgb(26, 48, 70);
+    font-family: Verdana, sans-serif;
+    color: whitesmoke;
+}
+
+img
+{
+    width: 75%;
+    height: 75%;
+    padding: 8px;
+}
+
+h1
+{
+    color: rgb(198, 175, 224);
+}
+
+a
+{
+    color: rgb(237, 250, 212);
+}
+
+li a
+{
+    display: block;
+    color:whitesmoke;
+    padding: 8px;
+    text-decoration: none;
+}
+
+li a:hover
+{
+    background-color: rgb(124, 170, 155);
+    color: white;
+}
+
+.navbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    width: 10%;
+    background-color: rgb(4, 22, 41);
+    height: 17%;
+    position: fixed;
+    overflow: auto;
+}
